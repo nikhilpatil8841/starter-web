@@ -5,3 +5,5 @@ This repository is for showing how Git and GitHub work. To online for rebasing p
 ## Purpose
 
 Sample website with plenty of files for demos
+
+20202 Git training copyright reserved
